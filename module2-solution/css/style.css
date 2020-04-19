@@ -55,9 +55,9 @@ p{
     
 }
 
-@media (min-width:768px) and (max-width:900px)
+@media (min-width:768px) and (max-width:991px)
 {
-    .column
+    .col
     {
         width: 48%;
         margin-right: 2.5px;
@@ -71,9 +71,10 @@ p{
 }
 @media (max-width:767px)
 {
-    .column{
+    .col{
         width: 90%;
         margin-left: 5%;
+        
     }
 
 }
