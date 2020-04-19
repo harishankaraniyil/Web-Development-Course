@@ -68,9 +68,7 @@ p{
         width: 99%;
         clear: both;
     }
-    p{
-        font-size: 1.25rem;
-    }
+    
 }
 @media (max-width:600px)
 {
